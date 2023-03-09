@@ -1,6 +1,2 @@
-bin/bash
- ALX>alx
+#!/bin/bash
 ALX
-
-exit
-echo -e bin/bashn ALX
