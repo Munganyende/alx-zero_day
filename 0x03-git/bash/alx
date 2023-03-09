@@ -1,6 +1,2 @@
-bin/bash
- ALX>alx
-ALX
-
-exit
-echo -e bin/bashn ALX
+#!/bin/bash
+echo "ALX School"
